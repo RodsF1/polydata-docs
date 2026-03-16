@@ -462,6 +462,4 @@ curl -s -H "x-api-key: pd_live_xxx" \
 
 ## Support
 
-- **Email:** support@polybets.fun
-- **Discord:** [discord.gg/polybets](https://discord.gg/polybets)
-- **Status:** [status.polybets.fun](https://status.polybets.fun)
+- **Email:** contactpolybets@gmail.com (ask for Rod) 

@@ -15,7 +15,7 @@ curl -H "x-api-key: pd_live_your_key_here" \
 
 ## Quick Start
 
-1. **Get an API key** at [polydata.polybets.fun](https://polydata.polybets.fun)
+1. **Get an API key** at polybets.fun/polydata
 2. **Pick an endpoint:**
    - `/polydata-sentiment` — Crowd-sourced pricing signals
    - `/polydata-results` — Historical hammer prices & outcomes
